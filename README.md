@@ -32,9 +32,9 @@ This is a simple GUI wrapper written in C for translating text files using the t
 ## How To Build
 ###### Terminal:
 ```bash
-git clone [https://github.com/TamirRothschild/gitready](https://github.com/TamirRothschild/QuickLing)
+git clone https://github.com/TamirRothschild/QuickLing
 cd /source
-gcc `pkg-config --cflags gtk+-3.0` -o translator main.c `pkg-config --libs gtk+-3.0`
+gcc `pkg-config --cflags --libs gtk+-3.0` -o translator main.c
 ./translator
 ```
 
