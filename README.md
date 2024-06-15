@@ -9,7 +9,7 @@ This is a simple GUI wrapper written in C for translating text files using the t
 - Support for various language pairs.
 - User-friendly interface.
 
-## Exmple
+## Example
 <img src="https://github.com/TamirRothschild/QuickLing/blob/main/assets/example3.png" alt="gtk-translate"/>
 
 ## Requirements
